@@ -54,7 +54,7 @@ hi Title  guifg=#c5c8c6 guibg=NONE gui=bold
 hi Todo  guifg=#969896 guibg=NONE gui=inverse,bold
 hi Type  guifg=NONE guibg=NONE gui=NONE
 hi Underlined  guifg=NONE guibg=NONE gui=underline
-hi rubyClass  guifg=#b294bb guibg=NONE gui=NONE
+hi rubyClass  guifg=#82a3bf guibg=NONE gui=NONE
 hi rubyFunction  guifg=#81a2be guibg=NONE gui=NONE
 hi rubyInterpolationDelimiter  guifg=NONE guibg=NONE gui=NONE
 hi rubySymbol  guifg=#b5bd68 guibg=NONE gui=NONE
