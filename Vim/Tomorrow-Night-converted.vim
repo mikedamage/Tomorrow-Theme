@@ -31,7 +31,7 @@ hi Boolean  guifg=#de935f guibg=NONE gui=NONE
 hi Character  guifg=#de935f guibg=NONE gui=NONE
 hi Comment  guifg=#969896 guibg=NONE gui=NONE
 hi Conditional  guifg=#b294bb guibg=NONE gui=NONE
-hi Constant  guifg=NONE guibg=NONE gui=NONE
+hi Constant  guifg=#c86563 guibg=NONE gui=NONE
 hi Define  guifg=#b294bb guibg=NONE gui=NONE
 hi ErrorMsg  guifg=#822021 guibg=#df5f5f gui=NONE
 hi WarningMsg  guifg=#822021 guibg=#df5f5f gui=NONE
@@ -58,7 +58,7 @@ hi rubyClass  guifg=#b294bb guibg=NONE gui=NONE
 hi rubyFunction  guifg=#81a2be guibg=NONE gui=NONE
 hi rubyInterpolationDelimiter  guifg=NONE guibg=NONE gui=NONE
 hi rubySymbol  guifg=#b5bd68 guibg=NONE gui=NONE
-hi rubyConstant  guifg=#f0c674 guibg=NONE gui=NONE
+hi rubyConstant  guifg=#c86563 guibg=NONE gui=NONE
 hi rubyStringDelimiter  guifg=#b5bd68 guibg=NONE gui=NONE
 hi rubyBlockParameter  guifg=#de935f guibg=NONE gui=NONE
 hi rubyInstanceVariable  guifg=#cc6666 guibg=NONE gui=NONE
